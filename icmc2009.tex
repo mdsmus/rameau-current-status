@@ -1,26 +1,24 @@
 \documentclass[twoside,10pt]{article}
 \usepackage{icmc2009,amssymb,amsmath} 
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
 %\setcounter{page}{1}
 
 \usepackage{mathptmx} 
 
-\def\papertitle{Paper Template for ICMC 2009, Montreal, Qc, Canada}
-%\def\papertitle{}	%-- should be empty for the submission anyway!
+\def\papertitle{The status of Rameau: a system for harmonic analysis
+  and computational musicology}
 
-\def\paperauthorA{} 
-\affiliation{}{}
+\def\paperauthorA{Pedro Kröger}
+\def\paperauthorB{Second Author}
+\def\paperauthorC{Third Author}
+\def\paperauthorD{Fourth Author}
 
-
-%---- uncomment 1 to 4 lines, for 1 to 4 authors
-%\def\paperauthorA{First author}
-%\def\paperauthorB{Second Author}
-%\def\paperauthorC{Third Author}
-%\def\paperauthorD{Fourth Author}
-
-%%---- set correspnding affiliation data for...
-%%-- 1 author
-%\affiliation{\paperauthorA}
-%  {School\\ Department, City, Country \\ {\tt \href{mailto:email@domain.icmc}{email@domain.icmc}}}
+\affiliation{\paperauthorA,\paperauthorB,\paperauthorC,\paperauthorD}
+{Genos---Computer Music Research Group\\ School of Music
+  \\ Federal University of Bahia, Brazil \\
+  {\tt \href{mailto:pedro.kroger@gmail.com}{pedro.kroger@gmail.com}}}
 
 %%-- 2 authors with same affiliation
 %\affiliation{\paperauthorA, \paperauthorB}
@@ -63,6 +61,6 @@
 \input{body-en}
 
 \bibliographystyle{IEEEtranS}
-\bibliography{strings,harmonic-analysis}
+\bibliography{strings,harmonic-analysis,genos}
 
 \end{document}
