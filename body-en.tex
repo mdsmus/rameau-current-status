@@ -5,6 +5,66 @@ system presented in \cite{kroger08:rameau}, Rameau. The system was
 first designed for automatic harmonic analysis, but it has been
 extended with basic support for computational musicology as well.
 
+\section{The system}
+\label{sec:system}
+
+Rameau has two basic interfaces; the command line interface gives the
+user access to all options and functionality and the web interface is
+just a basic front-end where the user can either choose a file to be
+analyzed, or type the notes of a four-part chorale.
+
+Rameau has nine algorithms for chord finding and four algorithms for
+roman numeral analysis. Figures \ref{fig:chord-name-analysis} and
+\ref{fig:roman-analysis} show the analysis result for the chord
+finding and roman numeral analysis, respectively. Each row shows the
+result for one algorithm and the last row show the expected answer, as
+predicted \nota{usar verbo melhor} in the answer sheet. The answer
+sheet is as simple ascii file with a co \nota{completar}
+
+The complete answer sheet for the chord name analysis is:
+
+\begin{verbatim}
+Em D/F# G B7/F# Em B/D# C/E D7/F# [A] Em7
+Am7/C Am7 D G G G/B D D Am/C Em/B [A] B 
+(B7 [a]) Em
+\end{verbatim}
+
+and the complete answer sheet for the roman numeral analysis is:
+
+\begin{verbatim}
+e: i V6/III III V4.3 i V6 VI6 V6.5/III
+III i G: ii6.5 ii7 V I I I6 V -
+e: iv6 i6.4 - V7 - i
+\end{verbatim}
+
+
+\begin{figure}
+  \centering
+  
+  \caption{Chord name analysis}
+  \label{fig:chord-name-analysis}
+\end{figure}
+\begin{figure}
+  \centering
+  
+  \caption{Roman numeral analysis}
+  \label{fig:roman-analysis}
+\end{figure}
+
+\section{Algorithms}
+\label{sec:algorithms}
+
+\nota{falar sobre algoritmos (duh!)}
+
+\section{Computational musicology}
+\label{sec:comp-music}
+
+\section{Visualization}
+\label{sec:visualization}
+
+\section{Conclusion}
+\label{sec:conclusion}
+
 
 
 %%% Local Variables: 
