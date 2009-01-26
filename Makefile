@@ -1,7 +1,7 @@
 NAME = icmc2009
 TEXSRCS = body-en.tex abstract.tex
 
-OTHER += $(LILY_PDF) $(SVG_PDF) $(GNUPLOT_PDF)
+OTHER += $(LILY_PDF) $(SVG_PNG)
 
 USE_PDFLATEX = 1
 
