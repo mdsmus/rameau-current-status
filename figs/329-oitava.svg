@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:ns="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:cc="http://web.resource.org/cc/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="61.607559"
-   height="36.433605"
+   width="744.09448"
+   height="1052.3622"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.45.1"
    sodipodi:docname="329-oitava.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:docbase="/home/marcos/profissional/genos/genos-repos/musicologia-computacional/figs">
+   sodipodi:docbase="/home/givaldo/genos/repos/rameau-current-status/figs">
   <metadata
      id="metadata4972">
     <rdf:RDF>
+      <ns:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </ns:Work>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
@@ -28,8 +35,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="748"
-     inkscape:window-width="1022"
+     inkscape:window-height="712"
+     inkscape:window-width="1024"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -39,15 +46,17 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="15.258645"
-     inkscape:cx="33.089264"
-     inkscape:cy="278.74805"
+     inkscape:zoom="3.5887198"
+     inkscape:cx="99.833321"
+     inkscape:cy="987.84243"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="32"
      inkscape:current-layer="svg2"
      showguides="true"
      inkscape:guide-bbox="true"
-     showgrid="false" />
+     showgrid="false"
+     width="210.00001mm"
+     height="297.00001mm" />
   <defs
      id="defs4">
     <inkscape:perspective
@@ -2384,749 +2393,867 @@
     </font>
   </defs>
   <g
-     id="g2889"
-     transform="translate(0,3.1247935e-6)">
+     id="g41345"
+     transform="matrix(0.9044395,0,0,0.9044395,5.3256043e-2,2.1903119e-2)">
     <g
-       id="g795"
-       transform="matrix(1.757299,0,0,1.757299,9.9999999,8.786495)">
-      <text
-         id="text797"
-         style="font-size:2.19953132px;font-family:Schoolbook">
-        <tspan
-           id="tspan799" />
-      </text>
+       transform="matrix(1.947012,0,0,1.9498297,0.5573018,0.2292129)"
+       id="g2889">
+      <g
+         transform="matrix(1.757299,0,0,1.757299,9.9999999,8.786495)"
+         id="g795">
+        <text
+           style="font-size:2.19953132px;font-family:Schoolbook"
+           id="text797">
+          <tspan
+             id="tspan799" />
+        </text>
+      </g>
+      <g
+         id="g14555">
+        <g
+           id="g3819"
+           transform="matrix(1.757299,0,0,1.757299,42.57908,7.69632)">
+          <rect
+             id="rect3821"
+             ry="0"
+             height="4.0999999"
+             width="0.19"
+             y="-2.05"
+             x="0" />
+        </g>
+        <g
+           id="g3847"
+           transform="matrix(1.757299,0,0,1.757299,42.57908,29.92616)">
+          <rect
+             id="rect3849"
+             ry="0"
+             height="4.0999999"
+             width="0.19"
+             y="-2.05"
+             x="0" />
+        </g>
+        <g
+           id="g3863"
+           transform="matrix(1.757299,0,0,1.757299,42.57908,18.81124)">
+          <rect
+             id="rect3865"
+             ry="0"
+             height="8.5500002"
+             width="0.19"
+             y="-4.2750001"
+             x="0" />
+        </g>
+        <g
+           id="g3867"
+           transform="matrix(1.757299,0,0,1.757299,-95.894562,12.96822)">
+          <rect
+             id="rect3869"
+             ry="0.1"
+             height="0.2"
+             width="1.974267"
+             y="-0.1"
+             x="87.653122" />
+        </g>
+        <g
+           id="g3871"
+           transform="matrix(0.6108106,0,0,1.757299,0.1054379,11.21092)">
+          <line
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+             id="line3873"
+             y2="0"
+             x2="108.07047"
+             y1="0"
+             x1="0.050000001" />
+        </g>
+        <g
+           id="g3875"
+           transform="matrix(0.6108106,0,0,1.757299,0.1054379,9.45362)">
+          <line
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+             id="line3877"
+             y2="0"
+             x2="108.07047"
+             y1="0"
+             x1="0.050000001" />
+        </g>
+        <g
+           id="g3879"
+           transform="matrix(0.6108106,0,0,1.757299,0.1054379,7.69632)">
+          <line
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+             id="line3881"
+             y2="0"
+             x2="108.07047"
+             y1="0"
+             x1="0.050000001" />
+        </g>
+        <g
+           id="g3883"
+           transform="matrix(0.6108106,0,0,1.757299,0.1054379,5.93902)">
+          <line
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+             id="line3885"
+             y2="0"
+             x2="108.07047"
+             y1="0"
+             x1="0.050000001" />
+        </g>
+        <g
+           id="g3887"
+           transform="matrix(0.6108106,0,0,1.757299,0.1054379,4.18172)">
+          <line
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+             id="line3889"
+             y2="0"
+             x2="108.07047"
+             y1="0"
+             x1="0.050000001" />
+        </g>
+        <g
+           id="g3903"
+           transform="matrix(1.757299,0,0,1.757299,-95.894562,24.65426)">
+          <rect
+             id="rect3905"
+             ry="0.1"
+             height="0.2"
+             width="1.974267"
+             y="-0.1"
+             x="68.097031" />
+        </g>
+        <g
+           id="g3907"
+           transform="matrix(1.757299,0,0,1.757299,-95.894562,24.65426)">
+          <rect
+             id="rect3909"
+             ry="0.1"
+             height="0.2"
+             width="1.974267"
+             y="-0.1"
+             x="80.326767" />
+        </g>
+        <g
+           id="g3911"
+           transform="matrix(1.757299,0,0,1.757299,-95.894562,22.89696)">
+          <rect
+             id="rect3913"
+             ry="0.1"
+             height="0.2"
+             width="1.974267"
+             y="-0.1"
+             x="80.326767" />
+        </g>
+        <g
+           id="g3915"
+           transform="matrix(0.6108106,0,0,1.757299,0.1054379,33.44075)">
+          <line
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+             id="line3917"
+             y2="0"
+             x2="108.07047"
+             y1="0"
+             x1="0.050000001" />
+        </g>
+        <g
+           id="g3919"
+           transform="matrix(0.6108106,0,0,1.757299,0.1054379,31.68345)">
+          <line
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+             id="line3921"
+             y2="0"
+             x2="108.07047"
+             y1="0"
+             x1="0.050000001" />
+        </g>
+        <g
+           id="g3923"
+           transform="matrix(0.6108106,0,0,1.757299,0.1054379,29.92616)">
+          <line
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+             id="line3925"
+             y2="0"
+             x2="108.07047"
+             y1="0"
+             x1="0.050000001" />
+        </g>
+        <g
+           id="g3927"
+           transform="matrix(0.6108106,0,0,1.757299,0.1054379,28.16886)">
+          <line
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+             id="line3929"
+             y2="0"
+             x2="108.07047"
+             y1="0"
+             x1="0.050000001" />
+        </g>
+        <g
+           id="g3931"
+           transform="matrix(0.6108106,0,0,1.757299,0.1054379,26.41156)">
+          <line
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+             id="line3933"
+             y2="0"
+             x2="108.07047"
+             y1="0"
+             x1="0.050000001" />
+        </g>
+        <g
+           id="g3935"
+           transform="matrix(1.757299,0,0,1.757299,45.84182,22.89696)">
+          <text
+             id="text3937"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan3939"></tspan>
+          </text>
+        </g>
+        <g
+           id="g3941"
+           transform="matrix(1.757299,0,0,1.757299,45.95605,7.69632)">
+          <rect
+             id="rect3943"
+             ry="0.039999999"
+             height="4.6221862"
+             width="0.13"
+             y="1.187814"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g3945"
+           transform="matrix(1.757299,0,0,1.757299,48.82691,7.69632)">
+          <rect
+             id="rect3947"
+             ry="0.039999999"
+             height="3.6221859"
+             width="0.13"
+             y="-1.8099999"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g3961"
+           transform="matrix(1.757299,0,0,1.757299,39.16651,29.92616)">
+          <rect
+             id="rect3963"
+             ry="0.039999999"
+             height="2.6221859"
+             width="0.13"
+             y="-4.8099999"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g3965"
+           transform="matrix(1.757299,0,0,1.757299,11.47591,34.85874)">
+          <polygon
+             style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round"
+             id="polygon3967"
+             points="14.596294,0.49618352 14.596294,0.89618352 0.04,0.2 0.04,-0.2 14.596294,0.49618352 " />
+        </g>
+        <g
+           id="g3969"
+           transform="matrix(1.757299,0,0,1.757299,45.84182,29.04751)">
+          <text
+             id="text3971"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan3973"></tspan>
+          </text>
+        </g>
+        <g
+           id="g3975"
+           transform="matrix(1.757299,0,0,1.757299,26.43498,20.25003)">
+          <polygon
+             style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round"
+             id="polygon3977"
+             points="7.2699386,0.50249314 7.2699386,0.90249314 0.04,0.2 0.04,-0.2 7.2699386,0.50249314 " />
+        </g>
+        <g
+           id="g3979"
+           transform="matrix(1.757299,0,0,1.757299,45.84182,9.45362)">
+          <text
+             id="text3981"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan3983"></tspan>
+          </text>
+        </g>
+        <g
+           id="g3985"
+           transform="matrix(1.757299,0,0,1.757299,46.62821,11.21092)">
+          <text
+             id="text3987"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan3989"></tspan>
+          </text>
+        </g>
+        <g
+           id="g3991"
+           transform="matrix(1.757299,0,0,1.757299,37.08204,29.92616)">
+          <rect
+             id="rect3993"
+             ry="0.039999999"
+             height="3.312186"
+             width="0.13"
+             y="0.187814"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4007"
+           transform="matrix(1.757299,0,0,1.757299,53.11912,10.33227)">
+          <text
+             id="text4009"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4011"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4013"
+           transform="matrix(1.757299,0,0,1.757299,45.95605,29.92616)">
+          <rect
+             id="rect4015"
+             ry="0.039999999"
+             height="3.312186"
+             width="0.13"
+             y="-0.312186"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4017"
+           transform="matrix(1.757299,0,0,1.757299,48.04051,29.92616)">
+          <rect
+             id="rect4019"
+             ry="0.039999999"
+             height="2.312186"
+             width="0.13"
+             y="-6.5"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4021"
+           transform="matrix(1.757299,0,0,1.757299,17.18744,29.92616)">
+          <rect
+             id="rect4023"
+             ry="0.039999999"
+             height="3.2736905"
+             width="0.13"
+             y="-0.312186"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4025"
+           transform="matrix(1.757299,0,0,1.757299,17.18744,7.69632)">
+          <rect
+             id="rect4027"
+             ry="0.039999999"
+             height="2.312186"
+             width="0.13"
+             y="1.187814"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4041"
+           transform="matrix(1.757299,0,0,1.757299,17.07321,29.04751)">
+          <text
+             id="text4043"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4045"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4047"
+           transform="matrix(1.757299,0,0,1.757299,17.07321,9.45362)">
+          <text
+             id="text4049"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4051"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4053"
+           transform="matrix(1.757299,0,0,1.757299,11.59014,29.92616)">
+          <rect
+             id="rect4055"
+             ry="0.039999999"
+             height="4.1221862"
+             width="0.13"
+             y="-1.312186"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4061"
+           transform="matrix(1.757299,0,0,1.757299,13.67461,29.92616)">
+          <rect
+             id="rect4063"
+             ry="0.039999999"
+             height="2.312186"
+             width="0.13"
+             y="-5"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4069"
+           transform="matrix(1.757299,0,0,1.757299,11.70436,17.29118)">
+          <text
+             id="text4071"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4073"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4075"
+           transform="matrix(1.757299,0,0,1.757299,11.59014,7.69632)">
+          <rect
+             id="rect4077"
+             ry="0.039999999"
+             height="2.812186"
+             width="0.13"
+             y="2.687814"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4083"
+           transform="matrix(1.757299,0,0,1.757299,13.67461,7.69632)">
+          <rect
+             id="rect4085"
+             ry="0.039999999"
+             height="2.812186"
+             width="0.13"
+             y="-3"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4099"
+           transform="matrix(1.757299,0,0,1.757299,11.47591,27.29021)">
+          <text
+             id="text4101"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4103"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4105"
+           transform="matrix(1.757299,0,0,1.757299,37.19626,15.53388)">
+          <text
+             id="text4107"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4109"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4111"
+           transform="matrix(1.757299,0,0,1.757299,37.08204,7.69632)">
+          <rect
+             id="rect4113"
+             ry="0.039999999"
+             height="2.812186"
+             width="0.13"
+             y="1.687814"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4127"
+           transform="matrix(1.757299,0,0,1.757299,36.96781,29.92616)">
+          <text
+             id="text4129"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4131"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4133"
+           transform="matrix(1.757299,0,0,1.757299,36.96781,26.41156)">
+          <text
+             id="text4135"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4137"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4139"
+           transform="matrix(1.757299,0,0,1.757299,36.96781,10.33227)">
+          <text
+             id="text4141"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4143"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4145"
+           transform="matrix(1.757299,0,0,1.757299,24.46474,29.92616)">
+          <rect
+             id="rect4147"
+             ry="0.039999999"
+             height="2.4706683"
+             width="0.13"
+             y="0.687814"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4149"
+           transform="matrix(1.757299,0,0,1.757299,24.35051,8.57497)">
+          <text
+             id="text4151"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4153"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4155"
+           transform="matrix(1.757299,0,0,1.757299,24.35051,24.65426)">
+          <text
+             id="text4157"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4159"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4161"
+           transform="matrix(1.757299,0,0,1.757299,24.35051,30.8048)">
+          <text
+             id="text4163"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4165"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4179"
+           transform="matrix(1.757299,0,0,1.757299,26.54921,7.69632)">
+          <rect
+             id="rect4181"
+             ry="0.039999999"
+             height="3.312186"
+             width="0.13"
+             y="-3"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4183"
+           transform="matrix(1.757299,0,0,1.757299,26.54921,29.92616)">
+          <rect
+             id="rect4185"
+             ry="0.039999999"
+             height="2.312186"
+             width="0.13"
+             y="-5.5"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4187"
+           transform="matrix(1.757299,0,0,1.757299,1.511277,28.16886)">
+          <text
+             id="text4189"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4191"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4193"
+           transform="matrix(1.757299,0,0,1.757299,7.661824,4.18172)">
+          <text
+             id="text4195"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4197"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4199"
+           transform="matrix(1.757299,0,0,1.757299,1.511277,9.45362)">
+          <text
+             id="text4201"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4203"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4205"
+           transform="matrix(1.757299,0,0,1.757299,0.5850843,2.27657)">
+          <text
+             y="3.1641356e-14"
+             x="22.875862"
+             id="text4207"
+             style="font-size:1.74550986px;font-family:Schoolbook">
+            <tspan
+               id="tspan4209">10</tspan>
+          </text>
+        </g>
+        <g
+           id="g4227"
+           transform="matrix(0.6975571,0,0,1.757299,45.84255,17.90623)">
+          <polygon
+             style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round"
+             id="polygon4229"
+             points="18.737479,-0.2 18.737479,0.2 0.04,0.2 0.04,-0.2 18.737479,-0.2 " />
+        </g>
+        <g
+           id="g4253"
+           transform="matrix(1.757299,0,0,1.757299,0,18.81124)">
+          <rect
+             id="rect4255"
+             ry="0.050000001"
+             height="16.75"
+             width="0.16"
+             y="-8.375"
+             x="0" />
+        </g>
+        <g
+           id="g4257"
+           transform="matrix(1.757299,0,0,1.757299,7.661824,28.16886)">
+          <text
+             id="text4259"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4261"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4301"
+           transform="matrix(1.757299,0,0,1.757299,55.31781,7.69632)">
+          <rect
+             id="rect4303"
+             ry="0.039999999"
+             height="3.312186"
+             width="0.13"
+             y="-2"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4305"
+           transform="matrix(1.757299,0,0,1.757299,58.71642,9.45362)">
+          <text
+             id="text4307"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4309"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4311"
+           transform="matrix(1.757299,0,0,1.757299,58.71642,13.84687)">
+          <text
+             id="text4313"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4315"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4329"
+           transform="matrix(1.757299,0,0,1.757299,60.91511,7.69632)">
+          <rect
+             id="rect4331"
+             ry="0.039999999"
+             height="3.312186"
+             width="0.13"
+             y="-2.5"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4333"
+           transform="matrix(1.757299,0,0,1.757299,48.71268,4.52148)">
+          <polygon
+             style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round"
+             id="polygon4335"
+             points="3.7836837,-0.39668709 3.7836837,0.0033129088 0.04,0.2 0.04,-0.2 3.7836837,-0.39668709 " />
+        </g>
+        <g
+           id="g4337"
+           transform="matrix(1.757299,0,0,1.757299,48.71268,5.94489)">
+          <polygon
+             style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round"
+             id="polygon4339"
+             points="3.7836837,-0.39668709 3.7836837,0.0033129088 0.04,0.2 0.04,-0.2 3.7836837,-0.39668709 " />
+        </g>
+        <g
+           id="g4341"
+           transform="matrix(1.757299,0,0,1.757299,58.83064,7.69632)">
+          <rect
+             id="rect4343"
+             ry="0.039999999"
+             height="2.1221859"
+             width="0.13"
+             y="3.687814"
+             x="-0.064999998" />
+        </g>
+        <g
+           id="g4783"
+           transform="matrix(1.757299,0,0,1.757299,11.47591,25.53291)">
+          <text
+             id="text4785"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4787"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4789"
+           transform="matrix(1.757299,0,0,1.757299,11.47591,12.08957)">
+          <text
+             id="text4791"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4793"></tspan>
+          </text>
+        </g>
+        <g
+           id="g4795"
+           transform="matrix(1.757299,0,0,1.757299,11.47591,7.69632)">
+          <text
+             id="text4797"
+             style="font-size:4px;font-family:Emmentaler">
+            <tspan
+               id="tspan4799"></tspan>
+          </text>
+        </g>
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path2718"
+         sodipodi:cx="27.951368"
+         sodipodi:cy="17.420784"
+         sodipodi:rx="6.4640622"
+         sodipodi:ry="9.7864294"
+         d="M 34.415431 17.420784 A 6.4640622 9.7864294 0 1 1  21.487306,17.420784 A 6.4640622 9.7864294 0 1 1  34.415431 17.420784 z"
+         transform="matrix(1,0.1896654,0.6565296,1.124521,-7.6361362,-7.9949546)" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path2887"
+         sodipodi:cx="47.088062"
+         sodipodi:cy="16.536039"
+         sodipodi:rx="3.7683556"
+         sodipodi:ry="9.7977247"
+         d="M 50.856418 16.536039 A 3.7683556 9.7977247 0 1 1  43.319707,16.536039 A 3.7683556 9.7977247 0 1 1  50.856418 16.536039 z"
+         transform="translate(0,0.1310732)" />
     </g>
     <g
-       id="g14555">
+       transform="matrix(0.5997757,0,0,0.8343181,-3.7858075,-91.319342)"
+       id="g35859">
       <g
-         transform="matrix(1.757299,0,0,1.757299,42.57908,7.69632)"
-         id="g3819">
-        <rect
-           x="0"
-           y="-2.05"
-           width="0.19"
-           height="4.0999999"
-           ry="0"
-           id="rect3821" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,42.57908,29.92616)"
-         id="g3847">
-        <rect
-           x="0"
-           y="-2.05"
-           width="0.19"
-           height="4.0999999"
-           ry="0"
-           id="rect3849" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,42.57908,18.81124)"
-         id="g3863">
-        <rect
-           x="0"
-           y="-4.2750001"
-           width="0.19"
-           height="8.5500002"
-           ry="0"
-           id="rect3865" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,-95.894562,12.96822)"
-         id="g3867">
-        <rect
-           x="87.653122"
-           y="-0.1"
-           width="1.974267"
-           height="0.2"
-           ry="0.1"
-           id="rect3869" />
-      </g>
-      <g
-         transform="matrix(0.6108106,0,0,1.757299,0.1054379,11.21092)"
-         id="g3871">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,187.70788)"
+         id="g809">
         <line
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
            x1="0.050000001"
            y1="0"
-           x2="108.07047"
+           x2="36.938583"
            y2="0"
-           id="line3873"
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+           id="line811" />
       </g>
       <g
-         transform="matrix(0.6108106,0,0,1.757299,0.1054379,9.45362)"
-         id="g3875">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,183.64392)"
+         id="g813">
         <line
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
            x1="0.050000001"
            y1="0"
-           x2="108.07047"
+           x2="36.938583"
            y2="0"
-           id="line3877"
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+           id="line815" />
       </g>
       <g
-         transform="matrix(0.6108106,0,0,1.757299,0.1054379,7.69632)"
-         id="g3879">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,179.57995)"
+         id="g817">
         <line
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
            x1="0.050000001"
            y1="0"
-           x2="108.07047"
+           x2="36.938583"
            y2="0"
-           id="line3881"
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+           id="line819" />
       </g>
       <g
-         transform="matrix(0.6108106,0,0,1.757299,0.1054379,5.93902)"
-         id="g3883">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,175.51598)"
+         id="g821">
         <line
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
            x1="0.050000001"
            y1="0"
-           x2="108.07047"
+           x2="36.938583"
            y2="0"
-           id="line3885"
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+           id="line823" />
       </g>
       <g
-         transform="matrix(0.6108106,0,0,1.757299,0.1054379,4.18172)"
-         id="g3887">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,171.45201)"
+         id="g825">
         <line
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
            x1="0.050000001"
            y1="0"
-           x2="108.07047"
+           x2="36.938583"
            y2="0"
-           id="line3889"
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+           id="line827" />
       </g>
       <g
-         transform="matrix(1.757299,0,0,1.757299,-95.894562,24.65426)"
-         id="g3903">
-        <rect
-           x="68.097031"
-           y="-0.1"
-           width="1.974267"
-           height="0.2"
-           ry="0.1"
-           id="rect3905" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,-95.894562,24.65426)"
-         id="g3907">
-        <rect
-           x="80.326767"
-           y="-0.1"
-           width="1.974267"
-           height="0.2"
-           ry="0.1"
-           id="rect3909" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,-95.894562,22.89696)"
-         id="g3911">
-        <rect
-           x="80.326767"
-           y="-0.1"
-           width="1.974267"
-           height="0.2"
-           ry="0.1"
-           id="rect3913" />
-      </g>
-      <g
-         transform="matrix(0.6108106,0,0,1.757299,0.1054379,33.44075)"
-         id="g3915">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,135.51256)"
+         id="g853">
         <line
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
            x1="0.050000001"
            y1="0"
-           x2="108.07047"
+           x2="36.938583"
            y2="0"
-           id="line3917"
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+           id="line855" />
       </g>
       <g
-         transform="matrix(0.6108106,0,0,1.757299,0.1054379,31.68345)"
-         id="g3919">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,131.44859)"
+         id="g857">
         <line
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
            x1="0.050000001"
            y1="0"
-           x2="108.07047"
+           x2="36.938583"
            y2="0"
-           id="line3921"
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+           id="line859" />
       </g>
       <g
-         transform="matrix(0.6108106,0,0,1.757299,0.1054379,29.92616)"
-         id="g3923">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,127.38462)"
+         id="g861">
         <line
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
            x1="0.050000001"
            y1="0"
-           x2="108.07047"
+           x2="36.938583"
            y2="0"
-           id="line3925"
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+           id="line863" />
       </g>
       <g
-         transform="matrix(0.6108106,0,0,1.757299,0.1054379,28.16886)"
-         id="g3927">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,123.32065)"
+         id="g865">
         <line
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
            x1="0.050000001"
            y1="0"
-           x2="108.07047"
+           x2="36.938583"
            y2="0"
-           id="line3929"
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+           id="line867" />
       </g>
       <g
-         transform="matrix(0.6108106,0,0,1.757299,0.1054379,26.41156)"
-         id="g3931">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,119.25669)"
+         id="g869">
         <line
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
            x1="0.050000001"
            y1="0"
-           x2="108.07047"
+           x2="36.938583"
            y2="0"
-           id="line3933"
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,45.84182,22.89696)"
-         id="g3935">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text3937">
-          <tspan
-             id="tspan3939"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,45.95605,7.69632)"
-         id="g3941">
-        <rect
-           x="-0.064999998"
-           y="1.187814"
-           width="0.13"
-           height="4.6221862"
-           ry="0.039999999"
-           id="rect3943" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,48.82691,7.69632)"
-         id="g3945">
-        <rect
-           x="-0.064999998"
-           y="-1.8099999"
-           width="0.13"
-           height="3.6221859"
-           ry="0.039999999"
-           id="rect3947" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,39.16651,29.92616)"
-         id="g3961">
-        <rect
-           x="-0.064999998"
-           y="-4.8099999"
-           width="0.13"
-           height="2.6221859"
-           ry="0.039999999"
-           id="rect3963" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,11.47591,34.85874)"
-         id="g3965">
-        <polygon
-           points="14.596294,0.49618352 14.596294,0.89618352 0.04,0.2 0.04,-0.2 14.596294,0.49618352 "
-           id="polygon3967"
-           style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,45.84182,29.04751)"
-         id="g3969">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text3971">
-          <tspan
-             id="tspan3973"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,26.43498,20.25003)"
-         id="g3975">
-        <polygon
-           points="7.2699386,0.50249314 7.2699386,0.90249314 0.04,0.2 0.04,-0.2 7.2699386,0.50249314 "
-           id="polygon3977"
-           style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,45.84182,9.45362)"
-         id="g3979">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text3981">
-          <tspan
-             id="tspan3983"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,46.62821,11.21092)"
-         id="g3985">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text3987">
-          <tspan
-             id="tspan3989"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,37.08204,29.92616)"
-         id="g3991">
-        <rect
-           x="-0.064999998"
-           y="0.187814"
-           width="0.13"
-           height="3.312186"
-           ry="0.039999999"
-           id="rect3993" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,53.11912,10.33227)"
-         id="g4007">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4009">
-          <tspan
-             id="tspan4011"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,45.95605,29.92616)"
-         id="g4013">
-        <rect
-           x="-0.064999998"
-           y="-0.312186"
-           width="0.13"
-           height="3.312186"
-           ry="0.039999999"
-           id="rect4015" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,48.04051,29.92616)"
-         id="g4017">
-        <rect
-           x="-0.064999998"
-           y="-6.5"
-           width="0.13"
-           height="2.312186"
-           ry="0.039999999"
-           id="rect4019" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,17.18744,29.92616)"
-         id="g4021">
-        <rect
-           x="-0.064999998"
-           y="-0.312186"
-           width="0.13"
-           height="3.2736905"
-           ry="0.039999999"
-           id="rect4023" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,17.18744,7.69632)"
-         id="g4025">
-        <rect
-           x="-0.064999998"
-           y="1.187814"
-           width="0.13"
-           height="2.312186"
-           ry="0.039999999"
-           id="rect4027" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,17.07321,29.04751)"
-         id="g4041">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4043">
-          <tspan
-             id="tspan4045"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,17.07321,9.45362)"
-         id="g4047">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4049">
-          <tspan
-             id="tspan4051"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,11.59014,29.92616)"
-         id="g4053">
-        <rect
-           x="-0.064999998"
-           y="-1.312186"
-           width="0.13"
-           height="4.1221862"
-           ry="0.039999999"
-           id="rect4055" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,13.67461,29.92616)"
-         id="g4061">
-        <rect
-           x="-0.064999998"
-           y="-5"
-           width="0.13"
-           height="2.312186"
-           ry="0.039999999"
-           id="rect4063" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,11.70436,17.29118)"
-         id="g4069">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4071">
-          <tspan
-             id="tspan4073"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,11.59014,7.69632)"
-         id="g4075">
-        <rect
-           x="-0.064999998"
-           y="2.687814"
-           width="0.13"
-           height="2.812186"
-           ry="0.039999999"
-           id="rect4077" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,13.67461,7.69632)"
-         id="g4083">
-        <rect
-           x="-0.064999998"
-           y="-3"
-           width="0.13"
-           height="2.812186"
-           ry="0.039999999"
-           id="rect4085" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,11.47591,27.29021)"
-         id="g4099">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4101">
-          <tspan
-             id="tspan4103"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,37.19626,15.53388)"
-         id="g4105">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4107">
-          <tspan
-             id="tspan4109"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,37.08204,7.69632)"
-         id="g4111">
-        <rect
-           x="-0.064999998"
-           y="1.687814"
-           width="0.13"
-           height="2.812186"
-           ry="0.039999999"
-           id="rect4113" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,36.96781,29.92616)"
-         id="g4127">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4129">
-          <tspan
-             id="tspan4131"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,36.96781,26.41156)"
-         id="g4133">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4135">
-          <tspan
-             id="tspan4137"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,36.96781,10.33227)"
-         id="g4139">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4141">
-          <tspan
-             id="tspan4143"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,24.46474,29.92616)"
-         id="g4145">
-        <rect
-           x="-0.064999998"
-           y="0.687814"
-           width="0.13"
-           height="2.4706683"
-           ry="0.039999999"
-           id="rect4147" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,24.35051,8.57497)"
-         id="g4149">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4151">
-          <tspan
-             id="tspan4153"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,24.35051,24.65426)"
-         id="g4155">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4157">
-          <tspan
-             id="tspan4159"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,24.35051,30.8048)"
-         id="g4161">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4163">
-          <tspan
-             id="tspan4165"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,26.54921,7.69632)"
-         id="g4179">
-        <rect
-           x="-0.064999998"
-           y="-3"
-           width="0.13"
-           height="3.312186"
-           ry="0.039999999"
-           id="rect4181" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,26.54921,29.92616)"
-         id="g4183">
-        <rect
-           x="-0.064999998"
-           y="-5.5"
-           width="0.13"
-           height="2.312186"
-           ry="0.039999999"
-           id="rect4185" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,1.511277,28.16886)"
-         id="g4187">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4189">
-          <tspan
-             id="tspan4191"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,7.661824,4.18172)"
-         id="g4193">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4195">
-          <tspan
-             id="tspan4197"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,1.511277,9.45362)"
-         id="g4199">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4201">
-          <tspan
-             id="tspan4203"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,0.5850843,2.27657)"
-         id="g4205">
-        <text
-           style="font-size:1.74550986px;font-family:Schoolbook"
-           id="text4207"
-           x="22.875862"
-           y="3.1641356e-14">
-          <tspan
-             id="tspan4209">10</tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(0.6975571,0,0,1.757299,45.84255,17.90623)"
-         id="g4227">
-        <polygon
-           points="18.737479,-0.2 18.737479,0.2 0.04,0.2 0.04,-0.2 18.737479,-0.2 "
-           id="polygon4229"
-           style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,0,18.81124)"
-         id="g4253">
-        <rect
-           x="0"
-           y="-8.375"
-           width="0.16"
-           height="16.75"
-           ry="0.050000001"
-           id="rect4255" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,7.661824,28.16886)"
-         id="g4257">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4259">
-          <tspan
-             id="tspan4261"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,55.31781,7.69632)"
-         id="g4301">
-        <rect
-           x="-0.064999998"
-           y="-2"
-           width="0.13"
-           height="3.312186"
-           ry="0.039999999"
-           id="rect4303" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,58.71642,9.45362)"
-         id="g4305">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4307">
-          <tspan
-             id="tspan4309"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,58.71642,13.84687)"
-         id="g4311">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4313">
-          <tspan
-             id="tspan4315"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,60.91511,7.69632)"
-         id="g4329">
-        <rect
-           x="-0.064999998"
-           y="-2.5"
-           width="0.13"
-           height="3.312186"
-           ry="0.039999999"
-           id="rect4331" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,48.71268,4.52148)"
-         id="g4333">
-        <polygon
-           points="3.7836837,-0.39668709 3.7836837,0.0033129088 0.04,0.2 0.04,-0.2 3.7836837,-0.39668709 "
-           id="polygon4335"
-           style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,48.71268,5.94489)"
-         id="g4337">
-        <polygon
-           points="3.7836837,-0.39668709 3.7836837,0.0033129088 0.04,0.2 0.04,-0.2 3.7836837,-0.39668709 "
-           id="polygon4339"
-           style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,58.83064,7.69632)"
-         id="g4341">
-        <rect
-           x="-0.064999998"
-           y="3.687814"
-           width="0.13"
-           height="2.1221859"
-           ry="0.039999999"
-           id="rect4343" />
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,11.47591,25.53291)"
-         id="g4783">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4785">
-          <tspan
-             id="tspan4787"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,11.47591,12.08957)"
-         id="g4789">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4791">
-          <tspan
-             id="tspan4793"></tspan>
-        </text>
-      </g>
-      <g
-         transform="matrix(1.757299,0,0,1.757299,11.47591,7.69632)"
-         id="g4795">
-        <text
-           style="font-size:4px;font-family:Emmentaler"
-           id="text4797">
-          <tspan
-             id="tspan4799"></tspan>
-        </text>
+           id="line871" />
       </g>
     </g>
-    <path
-       transform="matrix(1,0.1896654,0.6565296,1.124521,-7.6361362,-7.9949546)"
-       d="M 34.415431,17.420784 A 6.4640622,9.7864294 0 1 1 21.487306,17.420784 A 6.4640622,9.7864294 0 1 1 34.415431,17.420784 z"
-       sodipodi:ry="9.7864294"
-       sodipodi:rx="6.4640622"
-       sodipodi:cy="17.420784"
-       sodipodi:cx="27.951368"
-       id="path2718"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       sodipodi:type="arc" />
-    <path
-       transform="translate(0,0.1310732)"
-       d="M 50.856418,16.536039 A 3.7683556,9.7977247 0 1 1 43.319707,16.536039 A 3.7683556,9.7977247 0 1 1 50.856418,16.536039 z"
-       sodipodi:ry="9.7977247"
-       sodipodi:rx="3.7683556"
-       sodipodi:cy="16.536039"
-       sodipodi:cx="47.088062"
-       id="path2887"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       sodipodi:type="arc" />
   </g>
 </svg>

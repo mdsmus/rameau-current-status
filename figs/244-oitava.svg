@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:ns="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:cc="http://web.resource.org/cc/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="40.883942"
-   height="18.967863"
+   width="744.09448"
+   height="1052.3622"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.45.1"
    sodipodi:docname="244-oitava.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:docbase="/home/marcos/profissional/genos/genos-repos/musicologia-computacional/figs">
+   sodipodi:docbase="/home/givaldo/genos/repos/rameau-current-status/figs">
   <metadata
      id="metadata6420">
     <rdf:RDF>
+      <ns:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </ns:Work>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
@@ -28,8 +35,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="748"
-     inkscape:window-width="1022"
+     inkscape:window-height="712"
+     inkscape:window-width="1024"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -39,15 +46,17 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="22.747317"
-     inkscape:cx="20.441971"
-     inkscape:cy="9.4839313"
+     inkscape:zoom="1.9926533"
+     inkscape:cx="78.619894"
+     inkscape:cy="926.83981"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="32"
      inkscape:current-layer="svg2"
      showguides="true"
      inkscape:guide-bbox="true"
-     showgrid="false" />
+     showgrid="false"
+     width="210.00001mm"
+     height="297.00001mm" />
   <defs
      id="defs4">
     <inkscape:perspective
@@ -2383,756 +2392,882 @@
          id="hkern789" />
     </font>
   </defs>
+  <text
+     id="text797"
+     style="font-size:8.9388237px;font-family:Schoolbook"
+     x="-27.361368"
+     y="83.377296">
+    <tspan
+       id="tspan799" />
+  </text>
   <g
-     id="g2898"
-     transform="translate(-1.07826e-2,-0.1333655)">
+     id="g37451"
+     transform="matrix(0.8617007,0,0,0.8617007,0.1868773,0.2419211)">
     <g
-       transform="translate(5.6905512,5)"
-       id="g799">
-      <text
-         style="font-size:2.19953132px;font-family:Schoolbook"
-         id="text801">
-        <tspan
-           id="tspan803" />
-      </text>
+       transform="matrix(3.4601266,0,0,3.4601266,1.3687019,1.2877957)"
+       id="g2898">
+      <g
+         id="g799"
+         transform="translate(5.6905512,5)">
+        <text
+           id="text801"
+           style="font-size:2.19953132px;font-family:Schoolbook">
+          <tspan
+             id="tspan803" />
+        </text>
+      </g>
+      <g
+         id="g22248">
+        <g
+           id="g21263">
+          <g
+             id="g1779"
+             transform="translate(40.704725,16.801229)">
+            <rect
+               id="rect1781"
+               ry="0"
+               height="4.0999999"
+               width="0.19"
+               y="-2.05"
+               x="0" />
+          </g>
+          <g
+             id="g1799"
+             transform="translate(40.704725,4.455849)">
+            <rect
+               id="rect1801"
+               ry="0"
+               height="4.0999999"
+               width="0.19"
+               y="-2.05"
+               x="0" />
+          </g>
+          <g
+             id="g1811"
+             transform="translate(40.704725,10.628539)">
+            <rect
+               id="rect1813"
+               ry="0"
+               height="8.2453794"
+               width="0.19"
+               y="-4.1226897"
+               x="0" />
+          </g>
+        </g>
+        <g
+           transform="translate(-38.69431,7.455849)"
+           id="g1815">
+          <rect
+             x="62.257702"
+             y="-0.1"
+             width="1.974267"
+             height="0.2"
+             ry="0.1"
+             id="rect1817" />
+        </g>
+        <g
+           transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,6.4460184)"
+           id="g1819">
+          <line
+             x1="0.050000001"
+             y1="0"
+             x2="108.07047"
+             y2="0"
+             id="line1821"
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,5.4436625)"
+           id="g1823">
+          <line
+             x1="0.050000001"
+             y1="0"
+             x2="108.07047"
+             y2="0"
+             id="line1825"
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,4.4413066)"
+           id="g1827">
+          <line
+             x1="0.050000001"
+             y1="0"
+             x2="108.07047"
+             y2="0"
+             id="line1829"
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,3.4389507)"
+           id="g1831">
+          <line
+             x1="0.050000001"
+             y1="0"
+             x2="108.07047"
+             y2="0"
+             id="line1833"
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="translate(7.07826e-2,2.455849)"
+           id="g1835">
+          <line
+             x1="0.022922648"
+             y1="-0.019254267"
+             x2="40.693604"
+             y2="-0.019254267"
+             id="line1837"
+             style="stroke-width:0.06143257;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,18.820483)"
+           id="g1839">
+          <line
+             x1="0.050000001"
+             y1="0"
+             x2="108.07047"
+             y2="0"
+             id="line1841"
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,17.818127)"
+           id="g1843">
+          <line
+             x1="0.050000001"
+             y1="0"
+             x2="108.07047"
+             y2="0"
+             id="line1845"
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,16.815771)"
+           id="g1847">
+          <line
+             x1="0.050000001"
+             y1="0"
+             x2="108.07047"
+             y2="0"
+             id="line1849"
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,15.813415)"
+           id="g1851">
+          <line
+             x1="0.050000001"
+             y1="0"
+             x2="108.07047"
+             y2="0"
+             id="line1853"
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,14.81106)"
+           id="g1855">
+          <line
+             x1="0.050000001"
+             y1="0"
+             x2="108.07047"
+             y2="0"
+             id="line1857"
+             style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="translate(-38.69431,13.801229)"
+           id="g1863">
+          <rect
+             x="47.05431"
+             y="-0.1"
+             width="1.974267"
+             height="0.2"
+             ry="0.1"
+             id="rect1865" />
+        </g>
+        <g
+           transform="translate(-38.69431,13.801229)"
+           id="g1867">
+          <rect
+             x="47.05431"
+             y="-0.1"
+             width="1.974267"
+             height="0.2"
+             ry="0.1"
+             id="rect1869" />
+        </g>
+        <g
+           transform="translate(-38.69431,13.801229)"
+           id="g1871">
+          <rect
+             x="54.941189"
+             y="-0.1"
+             width="1.974267"
+             height="0.2"
+             ry="0.1"
+             id="rect1873" />
+        </g>
+        <g
+           transform="translate(-38.69431,13.801229)"
+           id="g1875">
+          <rect
+             x="62.257702"
+             y="-0.1"
+             width="1.974267"
+             height="0.2"
+             ry="0.1"
+             id="rect1877" />
+        </g>
+        <g
+           transform="translate(-38.69431,12.801229)"
+           id="g1879">
+          <rect
+             x="62.257702"
+             y="-0.1"
+             width="1.974267"
+             height="0.2"
+             ry="0.1"
+             id="rect1881" />
+        </g>
+        <g
+           transform="translate(31.383826,18.609014)"
+           id="g1903">
+          <polygon
+             points="5.6652031,-0.0055696682 5.6652031,0.39443033 0.04,0.2 0.04,-0.2 5.6652031,-0.0055696682 "
+             id="polygon1905"
+             style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="translate(37.024029,16.801229)"
+           id="g1931">
+          <rect
+             x="-0.064999998"
+             y="-0.812186"
+             width="0.13"
+             height="2.812186"
+             ry="0.039999999"
+             id="rect1933" />
+        </g>
+        <g
+           transform="translate(27.703131,4.455849)"
+           id="g1977">
+          <rect
+             x="-0.064999998"
+             y="2.687814"
+             width="0.13"
+             height="2.5021861"
+             ry="0.039999999"
+             id="rect1979" />
+        </g>
+        <g
+           transform="translate(27.638131,6.955849)"
+           id="g1993">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text1995">
+            <tspan
+               id="tspan1997"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(22.742431,14.801229)"
+           id="g1999">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2001">
+            <tspan
+               id="tspan2003"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(23.957435,16.801229)"
+           id="g2005">
+          <rect
+             x="-0.064999998"
+             y="-1.812186"
+             width="0.13"
+             height="3.312186"
+             ry="0.039999999"
+             id="rect2007" />
+        </g>
+        <g
+           transform="translate(23.957435,4.455849)"
+           id="g2009">
+          <rect
+             x="-0.064999998"
+             y="3.187814"
+             width="0.13"
+             height="2.312186"
+             ry="0.039999999"
+             id="rect2011" />
+        </g>
+        <g
+           transform="translate(36.959029,15.801229)"
+           id="g2019">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2021">
+            <tspan
+               id="tspan2023"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(31.448826,16.801229)"
+           id="g2025">
+          <rect
+             x="-0.064999998"
+             y="-1.312186"
+             width="0.13"
+             height="3.1221859"
+             ry="0.039999999"
+             id="rect2027" />
+        </g>
+        <g
+           transform="translate(32.635004,16.801229)"
+           id="g2029">
+          <rect
+             x="-0.064999998"
+             y="-5"
+             width="0.13"
+             height="2.312186"
+             ry="0.039999999"
+             id="rect2031" />
+        </g>
+        <g
+           transform="translate(23.892435,9.961229)"
+           id="g2033">
+          <polygon
+             points="3.8356954,-0.52075902 3.8356954,-0.12075902 0.04,0.2 0.04,-0.2 3.8356954,-0.52075902 "
+             id="polygon2035"
+             style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="translate(31.448826,4.455849)"
+           id="g2037">
+          <rect
+             x="-0.064999998"
+             y="2.187814"
+             width="0.13"
+             height="2.312186"
+             ry="0.039999999"
+             id="rect2039" />
+        </g>
+        <g
+           transform="translate(32.635004,4.455849)"
+           id="g2041">
+          <rect
+             x="-0.064999998"
+             y="-3"
+             width="0.13"
+             height="2.812186"
+             ry="0.039999999"
+             id="rect2043" />
+        </g>
+        <g
+           transform="translate(31.383826,15.301229)"
+           id="g2057">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2059">
+            <tspan
+               id="tspan2061"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(31.383826,14.301229)"
+           id="g2063">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2065">
+            <tspan
+               id="tspan2067"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(31.383826,6.455849)"
+           id="g2069">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2071">
+            <tspan
+               id="tspan2073"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(31.383826,4.455849)"
+           id="g2075">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2077">
+            <tspan
+               id="tspan2079"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(4.4907924,17.801229)"
+           id="g2081">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2083">
+            <tspan
+               id="tspan2085"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(5.4108064,16.301229)"
+           id="g2087">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2089">
+            <tspan
+               id="tspan2091"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(0.8707826,15.801229)"
+           id="g2093">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2095">
+            <tspan
+               id="tspan2097"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(4.4907924,4.455849)"
+           id="g2099">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2101">
+            <tspan
+               id="tspan2103"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(5.4108064,2.955849)"
+           id="g2105">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2107">
+            <tspan
+               id="tspan2109"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(0.8707826,5.455849)"
+           id="g2111">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2113">
+            <tspan
+               id="tspan2115"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(-8.523e-2,1.405849)"
+           id="g2117">
+          <text
+             style="font-size:1.74550986px;font-family:Schoolbook"
+             id="text2119">
+            <tspan
+               id="tspan2121">5</tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(1.07826e-2,10.628539)"
+           id="g2131">
+          <rect
+             x="0"
+             y="-8.2226896"
+             width="0.16"
+             height="16.445379"
+             ry="0.050000001"
+             id="rect2133" />
+        </g>
+        <g
+           transform="translate(9.940223,16.801229)"
+           id="g2447">
+          <rect
+             x="-0.064999998"
+             y="-5.5"
+             width="0.13"
+             height="2.312186"
+             ry="0.039999999"
+             id="rect2449" />
+        </g>
+        <g
+           transform="translate(16.575924,14.301229)"
+           id="g2525">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2527">
+            <tspan
+               id="tspan2529"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(16.575924,13.301229)"
+           id="g2531">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2533">
+            <tspan
+               id="tspan2535"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(16.575924,5.455849)"
+           id="g2537">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2539">
+            <tspan
+               id="tspan2541"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(16.575924,5.455849)"
+           id="g2543">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2545">
+            <tspan
+               id="tspan2547"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(25.143613,16.801229)"
+           id="g2549">
+          <rect
+             x="-0.064999998"
+             y="-6.5"
+             width="0.13"
+             height="2.312186"
+             ry="0.039999999"
+             id="rect2551" />
+        </g>
+        <g
+           transform="translate(12.895228,4.455849)"
+           id="g2553">
+          <rect
+             x="-0.064999998"
+             y="1.687814"
+             width="0.13"
+             height="2.5021861"
+             ry="0.039999999"
+             id="rect2555" />
+        </g>
+        <g
+           transform="translate(12.830228,5.955849)"
+           id="g2569">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2571">
+            <tspan
+               id="tspan2573"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(25.143613,4.455849)"
+           id="g2575">
+          <rect
+             x="-0.064999998"
+             y="-3.5"
+             width="0.13"
+             height="2.812186"
+             ry="0.039999999"
+             id="rect2577" />
+        </g>
+        <g
+           transform="translate(23.892435,14.801229)"
+           id="g2591">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2593">
+            <tspan
+               id="tspan2595"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(23.892435,12.801229)"
+           id="g2597">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2599">
+            <tspan
+               id="tspan2601"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(23.892435,7.455849)"
+           id="g2603">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2605">
+            <tspan
+               id="tspan2607"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(23.892435,3.955849)"
+           id="g2609">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2611">
+            <tspan
+               id="tspan2613"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(16.640924,16.801229)"
+           id="g2615">
+          <rect
+             x="-0.064999998"
+             y="-2.312186"
+             width="0.13"
+             height="3.312186"
+             ry="0.039999999"
+             id="rect2617" />
+        </g>
+        <g
+           transform="translate(17.827102,16.801229)"
+           id="g2619">
+          <rect
+             x="-0.064999998"
+             y="-6"
+             width="0.13"
+             height="2.312186"
+             ry="0.039999999"
+             id="rect2621" />
+        </g>
+        <g
+           transform="translate(8.689045,8.960715)"
+           id="g2623">
+          <polygon
+             points="4.2311843,-0.51973152 4.2311843,-0.11973152 0.04,0.2 0.04,-0.2 4.2311843,-0.51973152 "
+             id="polygon2625"
+             style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+        <g
+           transform="translate(16.640924,4.455849)"
+           id="g2627">
+          <rect
+             x="-0.064999998"
+             y="1.187814"
+             width="0.13"
+             height="2.312186"
+             ry="0.039999999"
+             id="rect2629" />
+        </g>
+        <g
+           transform="translate(17.827102,4.455849)"
+           id="g2631">
+          <rect
+             x="-0.064999998"
+             y="-2.5"
+             width="0.13"
+             height="3.312186"
+             ry="0.039999999"
+             id="rect2633" />
+        </g>
+        <g
+           transform="translate(8.754045,16.801229)"
+           id="g2685">
+          <rect
+             x="-0.064999998"
+             y="-2.812186"
+             width="0.13"
+             height="3.312186"
+             ry="0.039999999"
+             id="rect2687" />
+        </g>
+        <g
+           transform="translate(8.754045,4.455849)"
+           id="g2689">
+          <rect
+             x="-0.064999998"
+             y="2.187814"
+             width="0.13"
+             height="2.312186"
+             ry="0.039999999"
+             id="rect2691" />
+        </g>
+        <g
+           transform="translate(9.940223,4.455849)"
+           id="g2693">
+          <rect
+             x="-0.064999998"
+             y="-2.5"
+             width="0.13"
+             height="3.312186"
+             ry="0.039999999"
+             id="rect2695" />
+        </g>
+        <g
+           transform="translate(8.689045,13.801229)"
+           id="g2709">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2711">
+            <tspan
+               id="tspan2713"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(8.689045,13.801229)"
+           id="g2715">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2717">
+            <tspan
+               id="tspan2719"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(8.689045,6.455849)"
+           id="g2721">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2723">
+            <tspan
+               id="tspan2725"></tspan>
+          </text>
+        </g>
+        <g
+           transform="translate(8.689045,5.455849)"
+           id="g2727">
+          <text
+             style="font-size:4px;font-family:Emmentaler"
+             id="text2729">
+            <tspan
+               id="tspan2731"></tspan>
+          </text>
+        </g>
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path2896"
+         sodipodi:cx="21.198376"
+         sodipodi:cy="5.6542974"
+         sodipodi:rx="5.3634443"
+         sodipodi:ry="4.1715679"
+         d="M 26.56182 5.6542974 A 5.3634443 4.1715679 0 1 1  15.834931,5.6542974 A 5.3634443 4.1715679 0 1 1  26.56182 5.6542974 z" />
     </g>
     <g
-       id="g22248">
+       transform="matrix(0.6468656,0,0,0.8343181,-3.4135665,-89.730049)"
+       id="g35859">
       <g
-         id="g21263">
-        <g
-           transform="translate(40.704725,16.801229)"
-           id="g1779">
-          <rect
-             x="0"
-             y="-2.05"
-             width="0.19"
-             height="4.0999999"
-             ry="0"
-             id="rect1781" />
-        </g>
-        <g
-           transform="translate(40.704725,4.455849)"
-           id="g1799">
-          <rect
-             x="0"
-             y="-2.05"
-             width="0.19"
-             height="4.0999999"
-             ry="0"
-             id="rect1801" />
-        </g>
-        <g
-           transform="translate(40.704725,10.628539)"
-           id="g1811">
-          <rect
-             x="0"
-             y="-4.1226897"
-             width="0.19"
-             height="8.2453794"
-             ry="0"
-             id="rect1813" />
-        </g>
-      </g>
-      <g
-         id="g1815"
-         transform="translate(-38.69431,7.455849)">
-        <rect
-           id="rect1817"
-           ry="0.1"
-           height="0.2"
-           width="1.974267"
-           y="-0.1"
-           x="62.257702" />
-      </g>
-      <g
-         id="g1819"
-         transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,6.4460184)">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,187.70788)"
+         id="g809">
         <line
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-           id="line1821"
-           y2="0"
-           x2="108.07047"
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+           x1="0.050000001"
            y1="0"
-           x1="0.050000001" />
-      </g>
-      <g
-         id="g1823"
-         transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,5.4436625)">
-        <line
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-           id="line1825"
+           x2="36.938583"
            y2="0"
-           x2="108.07047"
-           y1="0"
-           x1="0.050000001" />
+           id="line811" />
       </g>
       <g
-         id="g1827"
-         transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,4.4413066)">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,183.64392)"
+         id="g813">
         <line
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-           id="line1829"
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+           x1="0.050000001"
+           y1="0"
+           x2="36.938583"
            y2="0"
-           x2="108.07047"
-           y1="0"
-           x1="0.050000001" />
+           id="line815" />
       </g>
       <g
-         id="g1831"
-         transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,3.4389507)">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,179.57995)"
+         id="g817">
         <line
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-           id="line1833"
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+           x1="0.050000001"
+           y1="0"
+           x2="36.938583"
            y2="0"
-           x2="108.07047"
+           id="line819" />
+      </g>
+      <g
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,175.51598)"
+         id="g821">
+        <line
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+           x1="0.050000001"
            y1="0"
-           x1="0.050000001" />
-      </g>
-      <g
-         id="g1835"
-         transform="translate(7.07826e-2,2.455849)">
-        <line
-           style="stroke-width:0.06143257;stroke-linecap:round;stroke-linejoin:round"
-           id="line1837"
-           y2="-0.019254267"
-           x2="40.693604"
-           y1="-0.019254267"
-           x1="0.022922648" />
-      </g>
-      <g
-         id="g1839"
-         transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,18.820483)">
-        <line
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-           id="line1841"
+           x2="36.938583"
            y2="0"
-           x2="108.07047"
-           y1="0"
-           x1="0.050000001" />
+           id="line823" />
       </g>
       <g
-         id="g1843"
-         transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,17.818127)">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,171.45201)"
+         id="g825">
         <line
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-           id="line1845"
-           y2="0"
-           x2="108.07047"
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+           x1="0.050000001"
            y1="0"
-           x1="0.050000001" />
+           x2="36.938583"
+           y2="0"
+           id="line827" />
       </g>
       <g
-         id="g1847"
-         transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,16.815771)">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,135.51256)"
+         id="g853">
         <line
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-           id="line1849"
-           y2="0"
-           x2="108.07047"
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+           x1="0.050000001"
            y1="0"
-           x1="0.050000001" />
+           x2="36.938583"
+           y2="0"
+           id="line855" />
       </g>
       <g
-         id="g1851"
-         transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,15.813415)">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,131.44859)"
+         id="g857">
         <line
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-           id="line1853"
-           y2="0"
-           x2="108.07047"
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+           x1="0.050000001"
            y1="0"
-           x1="0.050000001" />
+           x2="36.938583"
+           y2="0"
+           id="line859" />
       </g>
       <g
-         id="g1855"
-         transform="matrix(0.376509,0,0,1.0023559,7.4879797e-2,14.81106)">
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,127.38462)"
+         id="g861">
         <line
-           style="stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-           id="line1857"
-           y2="0"
-           x2="108.07047"
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+           x1="0.050000001"
            y1="0"
-           x1="0.050000001" />
+           x2="36.938583"
+           y2="0"
+           id="line863" />
       </g>
       <g
-         id="g1863"
-         transform="translate(-38.69431,13.801229)">
-        <rect
-           id="rect1865"
-           ry="0.1"
-           height="0.2"
-           width="1.974267"
-           y="-0.1"
-           x="47.05431" />
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,123.32065)"
+         id="g865">
+        <line
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+           x1="0.050000001"
+           y1="0"
+           x2="36.938583"
+           y2="0"
+           id="line867" />
       </g>
       <g
-         id="g1867"
-         transform="translate(-38.69431,13.801229)">
-        <rect
-           id="rect1869"
-           ry="0.1"
-           height="0.2"
-           width="1.974267"
-           y="-0.1"
-           x="47.05431" />
-      </g>
-      <g
-         id="g1871"
-         transform="translate(-38.69431,13.801229)">
-        <rect
-           id="rect1873"
-           ry="0.1"
-           height="0.2"
-           width="1.974267"
-           y="-0.1"
-           x="54.941189" />
-      </g>
-      <g
-         id="g1875"
-         transform="translate(-38.69431,13.801229)">
-        <rect
-           id="rect1877"
-           ry="0.1"
-           height="0.2"
-           width="1.974267"
-           y="-0.1"
-           x="62.257702" />
-      </g>
-      <g
-         id="g1879"
-         transform="translate(-38.69431,12.801229)">
-        <rect
-           id="rect1881"
-           ry="0.1"
-           height="0.2"
-           width="1.974267"
-           y="-0.1"
-           x="62.257702" />
-      </g>
-      <g
-         id="g1903"
-         transform="translate(31.383826,18.609014)">
-        <polygon
-           style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round"
-           id="polygon1905"
-           points="5.6652031,-0.0055696682 5.6652031,0.39443033 0.04,0.2 0.04,-0.2 5.6652031,-0.0055696682 " />
-      </g>
-      <g
-         id="g1931"
-         transform="translate(37.024029,16.801229)">
-        <rect
-           id="rect1933"
-           ry="0.039999999"
-           height="2.812186"
-           width="0.13"
-           y="-0.812186"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g1977"
-         transform="translate(27.703131,4.455849)">
-        <rect
-           id="rect1979"
-           ry="0.039999999"
-           height="2.5021861"
-           width="0.13"
-           y="2.687814"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g1993"
-         transform="translate(27.638131,6.955849)">
-        <text
-           id="text1995"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan1997"></tspan>
-        </text>
-      </g>
-      <g
-         id="g1999"
-         transform="translate(22.742431,14.801229)">
-        <text
-           id="text2001"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2003"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2005"
-         transform="translate(23.957435,16.801229)">
-        <rect
-           id="rect2007"
-           ry="0.039999999"
-           height="3.312186"
-           width="0.13"
-           y="-1.812186"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2009"
-         transform="translate(23.957435,4.455849)">
-        <rect
-           id="rect2011"
-           ry="0.039999999"
-           height="2.312186"
-           width="0.13"
-           y="3.187814"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2019"
-         transform="translate(36.959029,15.801229)">
-        <text
-           id="text2021"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2023"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2025"
-         transform="translate(31.448826,16.801229)">
-        <rect
-           id="rect2027"
-           ry="0.039999999"
-           height="3.1221859"
-           width="0.13"
-           y="-1.312186"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2029"
-         transform="translate(32.635004,16.801229)">
-        <rect
-           id="rect2031"
-           ry="0.039999999"
-           height="2.312186"
-           width="0.13"
-           y="-5"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2033"
-         transform="translate(23.892435,9.961229)">
-        <polygon
-           style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round"
-           id="polygon2035"
-           points="3.8356954,-0.52075902 3.8356954,-0.12075902 0.04,0.2 0.04,-0.2 3.8356954,-0.52075902 " />
-      </g>
-      <g
-         id="g2037"
-         transform="translate(31.448826,4.455849)">
-        <rect
-           id="rect2039"
-           ry="0.039999999"
-           height="2.312186"
-           width="0.13"
-           y="2.187814"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2041"
-         transform="translate(32.635004,4.455849)">
-        <rect
-           id="rect2043"
-           ry="0.039999999"
-           height="2.812186"
-           width="0.13"
-           y="-3"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2057"
-         transform="translate(31.383826,15.301229)">
-        <text
-           id="text2059"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2061"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2063"
-         transform="translate(31.383826,14.301229)">
-        <text
-           id="text2065"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2067"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2069"
-         transform="translate(31.383826,6.455849)">
-        <text
-           id="text2071"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2073"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2075"
-         transform="translate(31.383826,4.455849)">
-        <text
-           id="text2077"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2079"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2081"
-         transform="translate(4.4907924,17.801229)">
-        <text
-           id="text2083"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2085"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2087"
-         transform="translate(5.4108064,16.301229)">
-        <text
-           id="text2089"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2091"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2093"
-         transform="translate(0.8707826,15.801229)">
-        <text
-           id="text2095"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2097"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2099"
-         transform="translate(4.4907924,4.455849)">
-        <text
-           id="text2101"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2103"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2105"
-         transform="translate(5.4108064,2.955849)">
-        <text
-           id="text2107"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2109"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2111"
-         transform="translate(0.8707826,5.455849)">
-        <text
-           id="text2113"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2115"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2117"
-         transform="translate(-8.523e-2,1.405849)">
-        <text
-           id="text2119"
-           style="font-size:1.74550986px;font-family:Schoolbook">
-          <tspan
-             id="tspan2121">5</tspan>
-        </text>
-      </g>
-      <g
-         id="g2131"
-         transform="translate(1.07826e-2,10.628539)">
-        <rect
-           id="rect2133"
-           ry="0.050000001"
-           height="16.445379"
-           width="0.16"
-           y="-8.2226896"
-           x="0" />
-      </g>
-      <g
-         id="g2447"
-         transform="translate(9.940223,16.801229)">
-        <rect
-           id="rect2449"
-           ry="0.039999999"
-           height="2.312186"
-           width="0.13"
-           y="-5.5"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2525"
-         transform="translate(16.575924,14.301229)">
-        <text
-           id="text2527"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2529"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2531"
-         transform="translate(16.575924,13.301229)">
-        <text
-           id="text2533"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2535"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2537"
-         transform="translate(16.575924,5.455849)">
-        <text
-           id="text2539"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2541"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2543"
-         transform="translate(16.575924,5.455849)">
-        <text
-           id="text2545"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2547"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2549"
-         transform="translate(25.143613,16.801229)">
-        <rect
-           id="rect2551"
-           ry="0.039999999"
-           height="2.312186"
-           width="0.13"
-           y="-6.5"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2553"
-         transform="translate(12.895228,4.455849)">
-        <rect
-           id="rect2555"
-           ry="0.039999999"
-           height="2.5021861"
-           width="0.13"
-           y="1.687814"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2569"
-         transform="translate(12.830228,5.955849)">
-        <text
-           id="text2571"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2573"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2575"
-         transform="translate(25.143613,4.455849)">
-        <rect
-           id="rect2577"
-           ry="0.039999999"
-           height="2.812186"
-           width="0.13"
-           y="-3.5"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2591"
-         transform="translate(23.892435,14.801229)">
-        <text
-           id="text2593"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2595"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2597"
-         transform="translate(23.892435,12.801229)">
-        <text
-           id="text2599"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2601"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2603"
-         transform="translate(23.892435,7.455849)">
-        <text
-           id="text2605"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2607"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2609"
-         transform="translate(23.892435,3.955849)">
-        <text
-           id="text2611"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2613"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2615"
-         transform="translate(16.640924,16.801229)">
-        <rect
-           id="rect2617"
-           ry="0.039999999"
-           height="3.312186"
-           width="0.13"
-           y="-2.312186"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2619"
-         transform="translate(17.827102,16.801229)">
-        <rect
-           id="rect2621"
-           ry="0.039999999"
-           height="2.312186"
-           width="0.13"
-           y="-6"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2623"
-         transform="translate(8.689045,8.960715)">
-        <polygon
-           style="stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round"
-           id="polygon2625"
-           points="4.2311843,-0.51973152 4.2311843,-0.11973152 0.04,0.2 0.04,-0.2 4.2311843,-0.51973152 " />
-      </g>
-      <g
-         id="g2627"
-         transform="translate(16.640924,4.455849)">
-        <rect
-           id="rect2629"
-           ry="0.039999999"
-           height="2.312186"
-           width="0.13"
-           y="1.187814"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2631"
-         transform="translate(17.827102,4.455849)">
-        <rect
-           id="rect2633"
-           ry="0.039999999"
-           height="3.312186"
-           width="0.13"
-           y="-2.5"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2685"
-         transform="translate(8.754045,16.801229)">
-        <rect
-           id="rect2687"
-           ry="0.039999999"
-           height="3.312186"
-           width="0.13"
-           y="-2.812186"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2689"
-         transform="translate(8.754045,4.455849)">
-        <rect
-           id="rect2691"
-           ry="0.039999999"
-           height="2.312186"
-           width="0.13"
-           y="2.187814"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2693"
-         transform="translate(9.940223,4.455849)">
-        <rect
-           id="rect2695"
-           ry="0.039999999"
-           height="3.312186"
-           width="0.13"
-           y="-2.5"
-           x="-0.064999998" />
-      </g>
-      <g
-         id="g2709"
-         transform="translate(8.689045,13.801229)">
-        <text
-           id="text2711"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2713"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2715"
-         transform="translate(8.689045,13.801229)">
-        <text
-           id="text2717"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2719"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2721"
-         transform="translate(8.689045,6.455849)">
-        <text
-           id="text2723"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2725"></tspan>
-        </text>
-      </g>
-      <g
-         id="g2727"
-         transform="translate(8.689045,5.455849)">
-        <text
-           id="text2729"
-           style="font-size:4px;font-family:Emmentaler">
-          <tspan
-             id="tspan2731"></tspan>
-        </text>
+         transform="matrix(5.9120412,0,0,4.0639674,7.3487469,119.25669)"
+         id="g869">
+        <line
+           style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
+           x1="0.050000001"
+           y1="0"
+           x2="36.938583"
+           y2="0"
+           id="line871" />
       </g>
     </g>
-    <path
-       d="M 26.56182,5.6542974 A 5.3634443,4.1715679 0 1 1 15.834931,5.6542974 A 5.3634443,4.1715679 0 1 1 26.56182,5.6542974 z"
-       sodipodi:ry="4.1715679"
-       sodipodi:rx="5.3634443"
-       sodipodi:cy="5.6542974"
-       sodipodi:cx="21.198376"
-       id="path2896"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       sodipodi:type="arc" />
   </g>
 </svg>
