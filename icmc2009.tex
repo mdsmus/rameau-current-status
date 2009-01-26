@@ -3,6 +3,7 @@
 \usepackage[utf8x]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[english]{babel}
+\usepackage{color}
 %\setcounter{page}{1}
 
 \usepackage{mathptmx} 
@@ -47,6 +48,10 @@
 %\pdfcompresslevel=9
 \usepackage[pdftex]{graphicx}	% for compatible graphics with hyperref
 \usepackage[figure,table]{hypcap}	% corrects the hyper-anchor of figures/tables
+
+\newcounter{notecounter}
+\newcommand{\nota}[1]{\addtocounter{notecounter}{1}{\textcolor{red}{[nota
+      \arabic{notecounter}: #1]}}}
 
 \title{\papertitle}
 
