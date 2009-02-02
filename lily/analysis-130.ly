@@ -419,5 +419,4 @@ answer = \lyricmode {
       \override LyricText #'font-family = #'roman
     }
   }
-  \midi {}
 }
