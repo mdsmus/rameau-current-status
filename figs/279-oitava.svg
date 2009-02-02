@@ -9,14 +9,14 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="744.09448"
-   height="1052.3622"
+   width="85.644966"
+   height="74.420174"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.45.1"
    sodipodi:docname="279-oitava.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:docbase="/home/givaldo/genos/repos/rameau-current-status/figs">
+   sodipodi:docbase="/home/marcos/profissional/genos/genos-repos/rameau-current-status/figs">
   <metadata
      id="metadata3986">
     <rdf:RDF>
@@ -35,8 +35,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="712"
-     inkscape:window-width="1024"
+     inkscape:window-height="783"
+     inkscape:window-width="1278"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -48,11 +48,11 @@
      id="base"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="2.8713647"
-     inkscape:cx="134.9042"
-     inkscape:cy="973.14772"
+     inkscape:zoom="7.6592133"
+     inkscape:cx="42.822483"
+     inkscape:cy="37.210086"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="15"
      inkscape:current-layer="svg2"
      showgrid="false"
      width="210.00001mm"
@@ -2394,7 +2394,7 @@
   </defs>
   <g
      id="g37646"
-     transform="matrix(0.8661585,0,0,0.8661585,9.6925753e-2,-0.42759)">
+     transform="matrix(0.8661585,0,0,0.8661585,-0.6272574,-0.5152433)">
     <g
        transform="matrix(1.8868613,0,0,1.8868613,0.7525327,6.9195677)"
        id="g6077">

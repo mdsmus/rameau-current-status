@@ -8,14 +8,14 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="744.09448"
-   height="1052.3622"
+   width="131.82167"
+   height="87.618729"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.45.1"
    sodipodi:docname="003-38-42-cruzamento.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:docbase="/home/givaldo/genos/repos/rameau-current-status/figs">
+   sodipodi:docbase="/home/marcos/profissional/genos/genos-repos/rameau-current-status/figs">
   <metadata
      id="metadata1080">
     <rdf:RDF>
@@ -28,8 +28,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="712"
-     inkscape:window-width="1024"
+     inkscape:window-height="783"
+     inkscape:window-width="1278"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -39,11 +39,11 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="0.88262253"
-     inkscape:cx="16.857116"
-     inkscape:cy="980.11326"
+     inkscape:zoom="6.5054587"
+     inkscape:cx="65.910837"
+     inkscape:cy="43.809366"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="15"
      inkscape:current-layer="svg2"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -2379,7 +2379,7 @@
   </defs>
   <g
      id="g13818"
-     transform="matrix(2.3658665,0,0,2.3658665,-3.9535854,-3.8364411)">
+     transform="matrix(2.3658665,0,0,2.3658665,-6.8481475,-6.6452377)">
     <g
        id="g795"
        transform="matrix(1.757299,0,0,1.757299,-12,-8.786495)">
