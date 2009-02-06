@@ -9,7 +9,7 @@ extended with basic support for computational musicology as well.
 %Bach na edição de Riemenschneider \cite{bach41:371}. Cinco corais
 
 % objetivo nao é apresentar resultados, melhor dados
-\cite{kroger08:musicologia}
+% resultados previos em \cite{kroger08:musicologia}
 
 % tied to chorales
 
@@ -33,9 +33,14 @@ score using LilyPond \cite{nienhuys.ea08:LilyPond} to render the
 score. It is noteworthy that the decision tree, k-nearest-neighbor,
 and the neural net algorithms have a 100\% accuracy in this chorale.
 
-The answer sheet is as simple ASCII file with a co \nota{completar}
-
-The complete answer sheet for the chord name analysis is:
+The answer sheet is as simple ASCII file with the chords names or the
+roman numerals. The format is familiar to students of harmony classes,
+the only major difference is that the numbers to indicate intervals
+are separated by a dot (where they are usually pilled on top of each
+other in a graphical representation). For instance, a C major chord
+with 7th, 9th, and 13th is represented as C7.9.13. The following is
+the complete answer sheet for the chord name analysis of chorale
+\#130:
 
 \begin{verbatim}
 Em D/F# G B7/F# Em B/D# C/E D7/F# [A] Em7
@@ -50,7 +55,6 @@ e: i V6/III III V4.3 i V6 VI6 V6.5/III
 III i G: ii6.5 ii7 V I I I6 V -
 e: iv6 i6.4 - V7 - i
 \end{verbatim}
-
 
 \begin{figure}
   \centering

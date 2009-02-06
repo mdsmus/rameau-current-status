@@ -12,19 +12,21 @@
 \def\papertitle{The status of Rameau: a system for harmonic analysis
   and computational musicology}
 
-\def\paperauthorA{Pedro Kröger}
-\def\paperauthorB{Second Author}
-\def\paperauthorC{Third Author}
-\def\paperauthorD{Fourth Author}
+%% anonimo
+\def\paperauthorA{}
 
-\affiliation{\paperauthorA,\paperauthorB,\paperauthorC,\paperauthorD}
-{Genos---Computer Music Research Group\\ School of Music
-  \\ Federal University of Bahia, Brazil \\
-  {\tt \href{mailto:pedro.kroger@gmail.com}{pedro.kroger@gmail.com}}}
+%\def\paperauthorA{Pedro Kröger}
+%\def\paperauthorB{Second Author}
+%\def\paperauthorC{Third Author}
+%\def\paperauthorD{Fourth Author}
 
-%%-- 2 authors with same affiliation
-%\affiliation{\paperauthorA, \paperauthorB}
-%  {School\\ Department, City, Country \\ {\tt \href{mailto:email@domain.icmc}{email@domain.icmc}}}
+%\affiliation{\paperauthorA,\paperauthorB,\paperauthorC,\paperauthorD}
+%{Genos---Computer Music Research Group\\ School of Music
+%  \\ Federal University of Bahia, Brazil \\
+%  {\tt \href{mailto:pedro.kroger@gmail.com}{pedro.kroger@gmail.com}}}
+
+%%--anonimo
+\affiliation{}{}
 
 %-- 2 authors with different affiliations
 %\twoaffiliations{\paperauthorA}{School\\ Department}
@@ -43,9 +45,9 @@
 
 %---- the hyperref package must be last to properly work
 \usepackage[pdftex,
-       pdftitle={\papertitle},
-	pdfauthor={\paperauthorA},
-	colorlinks=false,bookmarksnumbered,pdfstartview=XYZ]{hyperref}
+pdftitle={\papertitle},
+pdfauthor={\paperauthorA},
+colorlinks=false,bookmarksnumbered,pdfstartview=XYZ]{hyperref}
 %\pdfcompresslevel=9
 \usepackage[pdftex]{graphicx}	% for compatible graphics with hyperref
 \usepackage[figure,table]{hypcap}	% corrects the hyper-anchor of figures/tables
