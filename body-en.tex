@@ -1,25 +1,36 @@
 \section{Introduction}
 
-The purpose of this paper is to present the current status of the
-system presented in \cite{kroger08:rameau}, Rameau. The system was
-first designed for automatic harmonic analysis, but it has been
-extended with basic support for computational musicology as well.
+The purpose of this paper is to present the current status of Rameau,
+the system presented in \cite{kroger08:rameau}. The system was first
+designed for automatic harmonic analysis, but it has been extended
+with basic support for computational musicology as well. We will show
+the latest features of Rameau without, however, present the
+musicological finds since they can be found in
+\cite{kroger08:musicologia}. All musical examples are from the
+Riemenschneider edition of the 371 Bach's chorales \cite{bach41:371}.
 
-%de sétimas, e estudo das cadências finais em 366 dos 371 corais de
-%Bach na edição de Riemenschneider \cite{bach41:371}. Cinco corais
+Section \ref{sec:system} gives an overview of how rameau works,
+section \ref{sec:algorithms} describes briefly the algorithms
+implemented in Rameau, section \ref{sec:comp-music} presents the main
+musicological features implemented in the system, finally, section
+\ref{sec:conclusion} contains some concluding remarks and directions
+for future work.
 
-% objetivo nao é apresentar resultados, melhor dados
-% resultados previos em \cite{kroger08:musicologia}
-
-% tied to chorales
-
-\section{The system}
+\section{The System}
 \label{sec:system}
 
 Rameau has two basic interfaces; the command line interface gives the
 user access to all options and functionality and the web interface is
 just a basic front-end where the user can either choose a file to be
-analyzed, or type the notes of a four-part chorale.
+analyzed, or type the notes of a four-part chorale, as we can see on
+figure \ref{fig:rameau-web}.
+
+\begin{figure*}
+  \centering
+  \includegraphics[scale=.5]{rameau-web}
+  \caption{Rameau's web interface}
+  \label{fig:rameau-web}
+\end{figure*}
 
 Rameau has nine algorithms for chord finding and four algorithms for
 roman numeral analysis. Figures \ref{fig:chord-name-analysis} and
@@ -27,11 +38,11 @@ roman numeral analysis. Figures \ref{fig:chord-name-analysis} and
 finding and roman numeral analysis of the chorale 130 in the
 Riemenschneider edition \cite{bach41:371} , respectively. Each row
 shows the result for one algorithm and the last row show the expected
-answer, as predicted \nota{usar verbo melhor} in the answer sheet.
-Rameau can output the result in a text-only table or in an annotated
-score using LilyPond \cite{nienhuys.ea08:LilyPond} to render the
-score. It is noteworthy that the decision tree, k-nearest-neighbor,
-and the neural net algorithms have a 100\% accuracy in this chorale.
+answer from the answer sheet. Rameau can output the result in a
+text-only table or in an annotated score using LilyPond
+\cite{nienhuys.ea08:LilyPond} to render the score. It is noteworthy
+that the decision tree, k-nearest-neighbor, and the neural net
+algorithms have a 100\% accuracy in this chorale.
 
 The answer sheet is as simple ASCII file with the chords names or the
 roman numerals. The format is familiar to students of harmony classes,
@@ -197,7 +208,7 @@ half-diminished seventh chord.
   \label{fig:cadences}
 \end{figure}
 
-\section{Conclusion}
+\section{Conclusion and Discussion}
 \label{sec:conclusion}
 
 In this paper we presented the current status of rameau, a framework
