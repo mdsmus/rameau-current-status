@@ -4,17 +4,17 @@ The purpose of this paper is to present the current status of Rameau,
 the system presented in \cite{kroger08:rameau}. The system was first
 designed for automatic harmonic analysis, but it has been extended
 with basic support for computational musicology as well. We will show
-the latest features of Rameau without, however, present the
+the latest features of Rameau without, however, showing the
 musicological finds since they can be found in
 \cite{kroger08:musicologia}. All musical examples are from the
 Riemenschneider edition of the 371 Bach's chorales \cite{bach41:371}.
 
-Section \ref{sec:system} gives an overview of how rameau works,
-section \ref{sec:algorithms} describes briefly the algorithms
-implemented in Rameau, section \ref{sec:comp-music} presents the main
-musicological features implemented in the system, finally, section
-\ref{sec:conclusion} contains some concluding remarks and directions
-for future work.
+The organization of this paper is as follows; section \ref{sec:system}
+gives an overview of how rameau works, section \ref{sec:algorithms}
+describes briefly the algorithms implemented in Rameau, section
+\ref{sec:comp-music} presents the main musicological features
+implemented in the system, finally, section \ref{sec:conclusion}
+contains some concluding remarks and directions for future work.
 
 \section{The System}
 \label{sec:system}
@@ -23,7 +23,8 @@ Rameau has two basic interfaces; the command line interface gives the
 user access to all options and functionality and the web interface is
 just a basic front-end where the user can either choose a file to be
 analyzed, or type the notes of a four-part chorale, as we can see on
-figure \ref{fig:rameau-web}.
+figure \ref{fig:rameau-web}. The web interface is intended to be
+mainly used by students in harmony classes.
 
 \begin{figure*}
   \centering
@@ -44,10 +45,10 @@ text-only table or in an annotated score using LilyPond
 that the decision tree, k-nearest-neighbor, and the neural net
 algorithms have a 100\% accuracy in this chorale.
 
-The answer sheet is as simple ASCII file with the chords names or the
+The answer sheet is a simple ASCII file with the chords names or the
 roman numerals. The format is familiar to students of harmony classes,
 the only major difference is that the numbers to indicate intervals
-are separated by a dot (where they are usually pilled on top of each
+are separated by a dot (where they are usually piled on top of each
 other in a graphical representation). For instance, a C major chord
 with 7th, 9th, and 13th is represented as C7.9.13. The following is
 the complete answer sheet for the chord name analysis of chorale
@@ -102,8 +103,9 @@ condition.
 
 %% and visualization
 
-We have implemented a few musicological functions in Rameau. The goal
-is to turn Rameau into a full framework for computational musicology.
+We have implemented a few functions for computational musicology in
+Rameau. The goal is to turn Rameau into a full framework for
+computational musicology in the future.
 
 The commands ``octaves'' and ``fifths'' show how many consecutive
 octaves and fifths are in a piece and where they are. These functions
@@ -136,8 +138,8 @@ Chorales are parallel, although a few fifths are (in chorales 4, 46,
 \end{figure}
 
 The command ``chords'' list the frequency of each type of chord in a
-set of chorales. For instance, the type of chords in chorale \#130
-can be seen in the following list:
+set of chorales. For instance, we can see the type of chords in
+chorale \#130 in the following list:
 
 \begin{verbatim}
  C/F#                : 4.2% (1 of 24)
@@ -166,14 +168,14 @@ The command ``crossings'' find passages where are voice crossings. We
 found that there are some kind of voice crossing in 57\% of the Bach
 Chorales, although most of the crossings happen in a short period of
 time (no more than two beats). There are a few interesting cases. For
-instance, the alto is the lowest voice for a brief period of time
-(fig. \ref{fig:035-cruzamento}) in choral \#35 and there is a crossing
-of the soprano and alto and tenor and bass (fig.
-\ref{fig:290-66-74-cruzamento}).
+instance, the alto is the lowest voice for a brief period of time in
+chorale \#35 (fig. \ref{fig:035-cruzamento}) and there is a crossing
+of the soprano and alto and tenor and bass at the same time in chorale
+\# 290 (fig. \ref{fig:290-66-74-cruzamento}).
 
-There are also commands to find the vocal range used in the
-composition, to find melodic jumps in a voice (to analyze vocal
-writing), to show how the seventh of chords were resolved, and to
+There are also commands to find the vocal range used in a composition,
+to find melodic jumps in a voice (to analyze vocal writing, for
+example), to show how the seventh of chords were resolved, and to
 collect stats on how many chord progressions found in the chorales are
 strong, weak, superstrong and neutral, according to Schoenberg's
 theory of harmony.
@@ -194,12 +196,12 @@ theory of harmony.
 
 Finally, rameau can analyze the final cadence of the chorales and list
 then. Many commands can generate a cloud representation of its
-results. The advantage of such representation is that a lot of data
-can be easily ... in just one picture. We can see a cloud
-representation for all final cadences in the Bach Chorales in figure
-\ref{fig:cadences}. From this figure it is easy to see that the most
-common cadence is I ii V I, where ii can be a minor triad or a
-half-diminished seventh chord.
+results. The advantage of such representation is that a large amount
+of data can be visualized at glance in just one picture. We can see a
+cloud representation for all final cadences in the Bach Chorales in
+figure \ref{fig:cadences}. From this figure it is easy to see that the
+most common cadence is I ii V I, where ii can either be a minor triad
+or a half-diminished seventh chord.
 
 \begin{figure}
   \centering
@@ -213,20 +215,20 @@ half-diminished seventh chord.
 
 In this paper we presented the current status of rameau, a framework
 for automatic harmonic analysis and computational musicology. In this
-framework we implemented a few algorithms for chord-finding and roman
+framework we implemented a few algorithms for chord-labeling and roman
 numeral analysis and also a few commands for computational musicology.
 
 A system is as good as the input provided to it. Although we published
 the preliminary results of using the computational musicology commands
 in the 371 Bach Chorales, we found and corrected a large amount of
-errors in our input data, so much that we are not confortable in
+errors in our input data, so much that we are not comfortable in
 publishing any more results until we correct the corpus to a level
 that makes us more confident. We are in the process of correcting all
 371 chorales against the Budapest edition, that some musicologists
 find reliable \cite{fitsioris.ea08:parallel}.
 
-Also, the functions for musicology need to be further tested, debuged,
-and refined. The rameau architeture is too tied to 4-voice part
+Also, the functions for musicology need to be further tested, debugged,
+and refined. The rameau architecture is too tied to 4-voice part
 writing. We plan to address these problems in a future release of
 rameau.
 
