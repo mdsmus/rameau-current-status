@@ -1,0 +1,59 @@
+Dear Pedro,
+
+We are sorry to inform you that your paper submission entitled, The status of Rameau: a system for harmonic analysis and computational musicology, was not accepted for inclusion in the 2009 ICMC.  The reviewer comments for your paper are included at the end of this email.
+
+The 2009 ICMC will be smaller than past ICMCs (with only a single paper track) and many papers that might have been accepted in the past were rejected this year.  While a higher standard of acceptance is good for the long-term growth of our field, we expect that these results will come as a surprise to many of our community members.  As well, the blind-review system was new this year and certainly had some influence on the results.
+
+No review process is ever perfect and it is likely you will not agree with all of the reviewer comments.  That said, the review process methodology and results were reviewed by the ICMA Board and found to follow proper practices.  Some variability among reviewers in scoring and expectations is unfortunately impossible to eliminate.
+
+Also, a few papers were found to be identical or nearly identical to NIME 2009 submissions.  If these papers were accepted by NIME, they were rejected for the ICMC 2009.
+
+The ICMC 2009 Paper Coordination Team
+Andrey da Silva
+Vincent Verfaille
+Gary Scavone
+
+
+
+***************************************************************
+
+The authors mention finding mistakes in their data--I noticed one in the score of Chorale 130 in Figures 2 and 3: alto voice, bar 3, 4th beat. This plays havoc with the analysis results: which version did the algorithms see? Did they all see the same version? There must be other mistakes in their data too--either that or their algorithm for finding parallel fifths is incorrect, because there are many more in the Chorales than just the four listed in section 4. I myself have a list of more than 20 that I've noticed over the years, and this is far from a complete list. Most often these parallel 5ths arise when the soprano anticipates the stepwise descent to the tonic at a cadence, at the same time as an inner voice moves from the root of the dominant to the seventh. These fifths are well-known and mentioned in several harmony textbooks. I suspect the authors of Rameau are not checking for submetrical occurrences such as these. The list at the end of page 2 is confusing: there is no C/F# or C/D# chord in Chorale 130. There exist better representations of chord *types*, which is what is meant by these labels.
+
+Some musicological knowledge would help the discussion of crossings: since the bass voice was always intended to be doubled at the octave below by the instrumental accompaniment in these Chorale settings, instances of the tenor or even alto crossing below the notated bass voice do not actually indicate unusual inversions. The cloud plot of final cadences includes some extremely improbable progressions which I would wager are wrong.
+
+As the authors point out the weakest aspect of such analysis software in its current state is that it is completely naive as to musical texture beyond 4-part chorale style. However the glib assertion that this will be addressed in a future release obscures the fact that this is a huge problem not only for analysis software, but for human analysts too. Real music is messy and even the very limited analytic tool of roman numeral analysis runs into problems and ill-defined situations.
+
+***************************************************************
+
+The presentation reflects sound and steady development work, and as such, is worthy of acceptance.  However, the standpoint of the authors is not quite clear -- whether this is intended as a system development report and the given results are example excerpts of the current status, or the results themselves are being presented as novel findings.  If the former, more details of the implementations and algorithms should be given.
+
+The presentation itself also requires some improvement, and in certain cases, more detailed explanation.  Some of the points are listed below.
+
+* Section 2 says that "it is noteworthy that the decision tree, k-nearest-neighbor, and the neural net algorithms have a 100% accuracy in this chorale".
+But it is not clear which of the algorithms in Figures 2 and/or 3 are being mentioned.  A simple solution is to number the algorithms in the figures and refer to them by their numbers.
+
+* Notations like "D/F#" require explanation.  Does this mean that chord judgment was ambiguous?
+
+* Figures 2 & 3 give results for only 14 numbered chords, while the "complete answer sheet" at the end of section 2 list 24 chords.  Does this mean that the figures give only part of the score?  Why not give the complete score?
+
+* The "complete answer sheet" should also have the chord names and roman numerals aligned so that their correspondence can be easily seen.
+
+* In figure 2, the "Answer" for chord 10 says Em7, while all the algorithm answers say Em.  There doesn't seem to be any point in saying that the correct answer is Em7. Mere typo?
+
+* The chord frequency list in section 4 is quite confusing and requires clarification.  What is the "type of chords"?  All "type of chords" listed here have a "C" in them -- does this mean that the chords are transposed?  At least, I was not able to map this list to the list given in section 2.
+
+* The cloud representation of figure 6 requires more detailed explanation.  How is the data (final cadence) defined and obtained?  How are the spatial relationships between the data defined?
+
+As a general comment, it is advised that the content and intension of the figures be explained in more detail in the main text, instead of imposing the readers to figure out by themselves.
+
+Please check also for typographical errors:
+e.g.
+"find passages where are voice crossings"
+-> "find passages where there are voice crossings"
+"final cadence of the chorales and list then"
+ -> "list them"  (both on page 3, left column)   
+
+***************************************************************
+
+This paper is, essentially, a description of the user interface for a music analysis system described in another paper submitted to this year's ICMC. Instead of submitting two papers, the authors should have taken this information and included in the other paper. 
+
